@@ -1,0 +1,19 @@
+* {
+  font-family: 'Josefin Slab', serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+  color: aliceblue;
+}
+a {
+  text-decoration: none;
+  color: brown;
+  transition: 0.6s;
+}
+
+a:hover{
+  color: rgb(204, 168, 168);
+}
